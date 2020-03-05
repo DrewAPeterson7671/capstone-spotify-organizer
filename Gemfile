@@ -29,6 +29,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap'
 gem 'rspotify'
 gem 'rspec'
+gem 'bootstrap'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
