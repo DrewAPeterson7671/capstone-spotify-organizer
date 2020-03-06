@@ -1,5 +1,7 @@
 # README
 
+* ok, need to give up on gems and manually do the api
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
