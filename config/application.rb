@@ -17,7 +17,7 @@ require "sprockets/railtie"
 # you've limited to :test, :development, or :production.
 Bundler.require(*Rails.groups)
 
-RSpotify::authenticate("<your_client_id>", "<your_client_secret>")
+RSpotify::authenticate("", "<>")
 
 module RailsSpotifyOrganizer
   class Application < Rails::Application
